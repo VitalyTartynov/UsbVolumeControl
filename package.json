@@ -1,0 +1,15 @@
+{
+  "name": "usbvolumecontrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitaly.Tartynov",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.1.0",
+    "win-audio": "^2.0.2"
+  }
+}
